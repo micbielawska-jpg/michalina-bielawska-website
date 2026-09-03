@@ -1929,7 +1929,7 @@ function Footer({ onNavigate }) {
           </p>
           <form
             className="footer__newsletter-form"
-            action="https://app.kit.com/forms/[DO_UZUPEŁNIENIA_ID_FORMULARZA]/subscriptions"
+            action="https://app.kit.com/forms/9876465/subscriptions"
             method="post"
           >
             <label htmlFor="footer-newsletter-email" className="sr-only">Adres e-mail</label>
